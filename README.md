@@ -7,7 +7,6 @@ Fullstack Software developer
 As a full stack software developer I love helping businesses showcase their full potentials to their customers through mind blowing software solutions, which may either be a website, web application or stand alone software. I have over 3years of experience and over these years I have build strong ability to turn ideas into real products that meets the market. In addition, I have become very verse in architectural designs, API design and integration, Database design and Communication. I am a good team player and pay attention to details.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [James Akomu](http://torchconcepts.com)
 * ✉️  You can contact me at [jamesakomu@gmail.com](mailto:jamesakomu@gmail.com)
 * 🧠  I'm learning Advance Laravel Api
 * 🤝  I'm open to collaborating on Ecommerce or relative fun Projects
